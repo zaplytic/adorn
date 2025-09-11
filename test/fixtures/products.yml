@@ -1,15 +1,15 @@
 # Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
 one:
-  name: MyString
+  name: MyProduct1
   price: 1
-  description: MyString
+  description: Description1
   category: one
   availability: false
 
 two:
-  name: MyString
+  name: MyProduct2
   price: 1
-  description: MyString
+  description: Description2
   category: two
   availability: false
